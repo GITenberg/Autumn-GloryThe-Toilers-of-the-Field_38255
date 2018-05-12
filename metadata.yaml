@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1348
     wikipedia: http://en.wikipedia.org/wiki/René_Bazin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38255#Autumn-GloryThe-Toilers-of-the-Field
 gutenberg_issued: '2011-12-09'
 gutenberg_type: Text
 identifiers:
