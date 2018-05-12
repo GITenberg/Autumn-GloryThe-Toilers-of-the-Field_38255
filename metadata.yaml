@@ -1,0 +1,30 @@
+_repo: Autumn-GloryThe-Toilers-of-the-Field_38255
+_version: 0.1.0
+alternative_title: La terre qui meurt. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bazin, René
+    alias: Bazin, Rene
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '1348'
+    url: http://www.gutenberg.org/2009/agents/1348
+    wikipedia: http://en.wikipedia.org/wiki/René_Bazin
+description: ''
+gutenberg_issued: '2011-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peasants -- France -- Fiction'
+- !lcsh 'Vendée (France) -- Fiction'
+- !lcc 'PQ'
+title: Autumn Glory; Or, The Toilers of the Field
+url: http://www.gutenberg.org/ebooks/38255
